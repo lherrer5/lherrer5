@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I’m currently working on as an accounts payable analyst but I'm studying software development. 
+# I'm Lina M Herrera
+
+I’m currently working on as an accounts payable analyst but I'm studying **software development**. 
 I will complete this file as I gain more knowledge.
-Thanks for your understanding and support. 
+<u> Thanks </u> for your understanding and support. 
 
 | Cities    | Status     |
 |-----------|------------|
