@@ -4,7 +4,7 @@
 
 I’m currently working on as an accounts payable analyst but I'm studying **software development**. 
 I will complete this file as I gain more knowledge.
-<u> Thanks </u> for your understanding and support. 
+Thanks for your understanding and support. 
 
 | Cities    | Status     |
 |-----------|------------|
