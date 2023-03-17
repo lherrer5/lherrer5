@@ -14,6 +14,6 @@ Hobbies: Study and travel
 |-----------|------------|
 |Paris      | Visited    |
 |Honolulu   | Visited    |
-|Buenos aire| Coming soon|
+|Buenos aires| Coming soon|
 |Bruselas   | Coming soon|
 |Lisboa     | Coming soon|
